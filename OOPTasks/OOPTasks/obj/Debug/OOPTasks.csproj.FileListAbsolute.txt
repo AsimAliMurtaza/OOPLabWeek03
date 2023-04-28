@@ -1,0 +1,8 @@
+D:\UET BS-CS\SEMESTER 02\CS-162L Object Oriented Programming\OOPWeek3\OOPTasks\OOPTasks\bin\Debug\OOPTasks.exe.config
+D:\UET BS-CS\SEMESTER 02\CS-162L Object Oriented Programming\OOPWeek3\OOPTasks\OOPTasks\bin\Debug\OOPTasks.exe
+D:\UET BS-CS\SEMESTER 02\CS-162L Object Oriented Programming\OOPWeek3\OOPTasks\OOPTasks\bin\Debug\OOPTasks.pdb
+D:\UET BS-CS\SEMESTER 02\CS-162L Object Oriented Programming\OOPWeek3\OOPTasks\OOPTasks\obj\Debug\OOPTasks.csproj.AssemblyReference.cache
+D:\UET BS-CS\SEMESTER 02\CS-162L Object Oriented Programming\OOPWeek3\OOPTasks\OOPTasks\obj\Debug\OOPTasks.csproj.SuggestedBindingRedirects.cache
+D:\UET BS-CS\SEMESTER 02\CS-162L Object Oriented Programming\OOPWeek3\OOPTasks\OOPTasks\obj\Debug\OOPTasks.csproj.CoreCompileInputs.cache
+D:\UET BS-CS\SEMESTER 02\CS-162L Object Oriented Programming\OOPWeek3\OOPTasks\OOPTasks\obj\Debug\OOPTasks.exe
+D:\UET BS-CS\SEMESTER 02\CS-162L Object Oriented Programming\OOPWeek3\OOPTasks\OOPTasks\obj\Debug\OOPTasks.pdb
